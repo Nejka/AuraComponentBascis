@@ -1,0 +1,9 @@
+<!--
+ - Created by nejka on 19/04/2020.
+ -->
+
+<aura:component >
+    <c:campingHeader ></c:campingHeader>
+    <c:campingList></c:campingList>
+
+</aura:component>

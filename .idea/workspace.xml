@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="068b9125-c5b0-4e88-a8c4-594ff502a6da" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Lightning Application" />
+        <option value="Lightning Style" />
+        <option value="Apex Class" />
+        <option value="Lightning Component" />
+        <option value="Lightning Controller" />
+        <option value="Lightning Helper" />
+        <option value="Lightning Application Event" />
+        <option value="Apex Metadata" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IlluminatedCloudWorkspaceSettings">
+    <option name="moduleWorkspaceSettings">
+      <map>
+        <entry key="AuraComponentBascis">
+          <value>
+            <ModuleWorkspaceSettings>
+              <option name="moduleContentsLastModified" value="1587287094004" />
+            </ModuleWorkspaceSettings>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="projectWorkspaceSettings">
+      <ProjectWorkspaceSettings>
+        <option name="connectionWorkspaceSettings">
+          <map>
+            <entry key="AuraComponentBascis">
+              <value>
+                <ConnectionWorkspaceSettings>
+                  <option name="buildSuccessDatesBySourceRootRelativePath">
+                    <map>
+                      <entry key="APEXCLASS:CAMPINGLISTCONTROLLER" value="1587285312000" />
+                      <entry key="AURADEFINITIONBUNDLE:ADDITEMEVENT" value="1587287125000" />
+                      <entry key="AURADEFINITIONBUNDLE:CAMPING" value="1587280530297" />
+                      <entry key="AURADEFINITIONBUNDLE:CAMPINGHEADER" value="1587282595430" />
+                      <entry key="AURADEFINITIONBUNDLE:CAMPINGLIST" value="1587287984302" />
+                      <entry key="AURADEFINITIONBUNDLE:CAMPINGLISTFORM" value="1587288150730" />
+                      <entry key="AURADEFINITIONBUNDLE:CAMPINGLISTITEM" value="1587282358064" />
+                      <entry key="AURADEFINITIONBUNDLE:SCAFFOLD" value="1587282421960" />
+                    </map>
+                  </option>
+                </ConnectionWorkspaceSettings>
+              </value>
+            </entry>
+          </map>
+        </option>
+      </ProjectWorkspaceSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1akVs4UOXj7AlDEWlFLIPstfbID" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectReloadState">
+    <option name="STATE" value="1" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="068b9125-c5b0-4e88-a8c4-594ff502a6da" name="Default Changelist" comment="" />
+      <created>1587279781034</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1587279781034</updated>
+      <workItem from="1587279782326" duration="26000" />
+      <workItem from="1587279809730" duration="8914000" />
+      <workItem from="1589446887488" duration="1121000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="549" y="154" key="FileChooserDialogImpl" timestamp="1589448010604">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="549" y="154" key="FileChooserDialogImpl/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1589448010604" />
+    <state x="615" y="310" key="Github.ShareDialog" timestamp="1589447576713">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="615" y="310" key="Github.ShareDialog/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1589447576713" />
+  </component>
+</project>

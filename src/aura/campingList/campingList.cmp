@@ -1,0 +1,35 @@
+<!--
+ - Created by nejka on 19/04/2020.
+ -->
+<!--contain a new item input form and an iteration of campingListItem components for displaying the items entered-->
+<aura:component controller="campingListController">
+
+<!--    INITIALIZATION OF CAMPING LIST-->
+    <aura:handler name="init" action="{!c.doInit}" value="{!this}"/>
+
+<!--    HANDLE ADD ITEM EVENT-->
+
+    <aura:handler name="addItem" event="c:addItemEvent"
+                  action="{!c.handleAddItem}"/>
+
+
+    <!-- LIST OF CAMPING ITEMS-->
+    <aura:attribute name="items" type="Camping_Item__c[]"/>
+    <lightning:card title="Camping items">
+        <p class="slds-p-horizontal--small">
+            <aura:iteration items="{!v.items}" var="item">
+                <c:campingListItem item="{!item}"/>
+            </aura:iteration>
+        </p>
+    </lightning:card>
+
+
+
+    <!-- NEW ITEM FORM -->
+    <lightning:layout>
+        <lightning:layoutItem padding="around-small" size="6">
+            <c:campingListForm />
+        </lightning:layoutItem>
+    </lightning:layout>
+    <!-- / NEW ITEM FORM -->
+</aura:component>
